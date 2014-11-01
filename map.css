@@ -1,0 +1,36 @@
+.entire{
+background-color:red;
+}.title{
+			height:100px;
+			background-color:#39F;
+			
+	 }
+.map{
+	top:100px;
+	float:right;
+	height:500px;
+	width:80%;
+	
+	
+}
+.desc{
+	top:100px;
+	float:left;
+	background-color:#E0D8E0;
+	width:20%;
+	height:500px;
+	}
+.police{
+		padding-top:-10px;
+		float:left;
+		margin-left:50px;
+		width:85px;
+		height:80px;
+	}
+.govt{
+		padding-top:-4px;
+		float:right;
+		margin-right:50px;
+		width:85px;
+		height:80px;
+			}
