@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Ward Police Office Boudha", "Snippet": "Baudha 6, Boudha Road, Kathmandu", "Telephone": 4470545.000000, "Latitude": 27.720385, "Longitude": 85.359744 }, "geometry": { "type": "Point", "coordinates": [ 85.359744, 27.720385, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Nepal Police Headquarters", "Snippet": "Kathmandu", "Telephone": 0.000000, "Latitude": 27.715580, "Longitude": 85.328806 }, "geometry": { "type": "Point", "coordinates": [ 85.328806, 27.71558, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kamalpokhari Police Station", "Snippet": "Kamal Pokhari Road, Kathmandu", "Telephone": 0.000000, "Latitude": 27.710207, "Longitude": 85.325374 }, "geometry": { "type": "Point", "coordinates": [ 85.325374, 27.710207, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Durbar Marg Police Station", "Snippet": "Narayanhiti Path, Kathmandu", "Telephone": 0.000000, "Latitude": 27.712938, "Longitude": 85.318226 }, "geometry": { "type": "Point", "coordinates": [ 85.318226, 27.712938, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Metropolitan Police Station - Chagal", "Snippet": "Kankacho Binayak Marg, Kathmandu", "Telephone": 4280630.000000, "Latitude": 27.704671, "Longitude": 85.300051 }, "geometry": { "type": "Point", "coordinates": [ 85.300051, 27.704671, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kumari Galli Police Station", "Snippet": "Kumari Galli 2, Kathmandu", "Telephone": 0.000000, "Latitude": 27.700543, "Longitude": 85.324849 }, "geometry": { "type": "Point", "coordinates": [ 85.324849, 27.700543, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Koteshwor Police Station", "Snippet": "Kathmandu , Nepal", "Telephone": 0.000000, "Latitude": 27.678811, "Longitude": 85.348951 }, "geometry": { "type": "Point", "coordinates": [ 85.348951, 27.678811, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Gaushala Police Station", "Snippet": "Bhubaneshwori Marg, Kathmandu 44600", "Telephone": 0.000000, "Latitude": 27.707676, "Longitude": 85.344254 }, "geometry": { "type": "Point", "coordinates": [ 85.344254, 27.707676, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Chakrapath Police", "Snippet": "Ring Road, Kathmandu", "Telephone": 0.000000, "Latitude": 27.739853, "Longitude": 85.337684 }, "geometry": { "type": "Point", "coordinates": [ 85.337684, 27.739853, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Basundhara Police Station", "Snippet": "Ring Road, Kathmandu", "Telephone": 0.000000, "Latitude": 27.738104, "Longitude": 85.325490 }, "geometry": { "type": "Point", "coordinates": [ 85.32549, 27.738104, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Balaju Police Station", "Snippet": "Trisuli Highway, Kathmandu", "Telephone": 0.000000, "Latitude": 27.732300, "Longitude": 85.302756 }, "geometry": { "type": "Point", "coordinates": [ 85.302756, 27.7323, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Nepal Police Headquarters", "Snippet": "Kathmandu", "Telephone": 0.000000, "Latitude": 27.715580, "Longitude": 85.328806 }, "geometry": { "type": "Point", "coordinates": [ 85.328806, 27.71558, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kathmandu Metropolitan Office", "Snippet": "Ranipokhari", "Telephone": 0.000000, "Latitude": 27.706900, "Longitude": 85.316103 }, "geometry": { "type": "Point", "coordinates": [ 85.316103419000058, 27.706900075000078, 0.0 ] } }
+]
+}
